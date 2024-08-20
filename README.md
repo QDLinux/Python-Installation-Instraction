@@ -1,4 +1,4 @@
-# Python-Instiallation-Instraction
+# Python-Installation-Instraction
 
 
 目前，Python有两个版本，一个是2.x版，一个是3.x版，这两个版本是不兼容的。教程将以最新的Python 3.x版本为基础。
