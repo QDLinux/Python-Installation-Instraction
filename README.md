@@ -51,7 +51,7 @@ http://www.python.org/download/
 
 
 
-5. 测试输出
+测试输出
 win+R ，输入cmd 回车
 ![image](https://github.com/user-attachments/assets/48f22ec2-533c-4f37-ae21-bdb8aba6fe69)
 
@@ -71,22 +71,24 @@ win+R ，输入cmd 回车
 
 <br>
 <br>
-**安装开发工具**  
+
+
+*安装开发工具*
 安装PyCharm工具，网上可以下载，很多资源，也有免安装的版本，解压就可以用，我现在演示的是需要进行安装的Pycharm开发工具。
-访问PyCharm官方网址http://www.jetbrains.com/pycharm/download/，进入PyCharm的下载页面。
-![image](https://github.com/user-attachments/assets/c996289c-005b-4c88-8f2e-0e5aaa7fd628)
-![image](https://github.com/user-attachments/assets/20ec346a-284f-4fde-afbf-11d2fa1e38b3)
-![image](https://github.com/user-attachments/assets/abf9adef-9db0-4a1d-9c74-ff64a38f5e46)
-![image](https://github.com/user-attachments/assets/931b4bd1-8b90-438d-855b-aa0210491954)
-![image](https://github.com/user-attachments/assets/14c48b6d-70cd-4feb-b742-a461520387bf)
+访问PyCharm官方网址http://www.jetbrains.com/pycharm/download/，进入PyCharm的下载页面。   
+![image](https://github.com/user-attachments/assets/c996289c-005b-4c88-8f2e-0e5aaa7fd628)  
+![image](https://github.com/user-attachments/assets/20ec346a-284f-4fde-afbf-11d2fa1e38b3)  
+![image](https://github.com/user-attachments/assets/abf9adef-9db0-4a1d-9c74-ff64a38f5e46)  
+![image](https://github.com/user-attachments/assets/931b4bd1-8b90-438d-855b-aa0210491954)  
+![image](https://github.com/user-attachments/assets/14c48b6d-70cd-4feb-b742-a461520387bf)  
 
 第一次打开pycharm会显示这个
-![image](https://github.com/user-attachments/assets/9d3979f3-6d37-48ef-870f-7fea49c87f7a)
-![image](https://github.com/user-attachments/assets/5ec1fe19-277a-4fae-8797-9cf0afcba651)
-![image](https://github.com/user-attachments/assets/2ae12717-b94e-4ae2-8892-e1171d6e8dc5)
-![image](https://github.com/user-attachments/assets/a86dc016-cb24-4b65-a461-b29215b62475)
-![image](https://github.com/user-attachments/assets/0a98e380-b88b-4ed2-88a1-ae6a1d4c0969)
-![image](https://github.com/user-attachments/assets/e4b8c730-00ef-4777-a88a-bcb6faa2fe7c)
+![image](https://github.com/user-attachments/assets/9d3979f3-6d37-48ef-870f-7fea49c87f7a)  
+![image](https://github.com/user-attachments/assets/5ec1fe19-277a-4fae-8797-9cf0afcba651)  
+![image](https://github.com/user-attachments/assets/2ae12717-b94e-4ae2-8892-e1171d6e8dc5)  
+![image](https://github.com/user-attachments/assets/a86dc016-cb24-4b65-a461-b29215b62475)  
+![image](https://github.com/user-attachments/assets/0a98e380-b88b-4ed2-88a1-ae6a1d4c0969)  
+![image](https://github.com/user-attachments/assets/e4b8c730-00ef-4777-a88a-bcb6faa2fe7c)  
 
 
 这样选着会有一个venv文件夹，新建项目时默认是新建一个虚拟环境
