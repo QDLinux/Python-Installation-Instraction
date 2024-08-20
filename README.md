@@ -1,7 +1,7 @@
 # Python-Installation-Instraction
 
 
-目前，Python有两个版本，一个是2.x版，一个是3.x版，这两个版本是不兼容的。教程将以最新的Python 3.x版本为基础。
+教程以最新的Python 3.x版本为基础。
 
 进入Python的官方下载页面
 http://www.python.org/download/
@@ -64,10 +64,16 @@ win+R ，输入cmd 回车
 
 其实在python命令行下，print是可以省略的，默认就会输出每一次命令的结果。就像这样：![image](https://github.com/user-attachments/assets/232e0904-1e34-49c7-80a9-916f5b28529c)
 
+<br>
+<br>
 
+---  
 
-[ 安装开发工具 ]
+<br>
+<br>
+**安装开发工具**  
 安装PyCharm工具，网上可以下载，很多资源，也有免安装的版本，解压就可以用，我现在演示的是需要进行安装的Pycharm开发工具。
+访问PyCharm官方网址http://www.jetbrains.com/pycharm/download/，进入PyCharm的下载页面。
 ![image](https://github.com/user-attachments/assets/c996289c-005b-4c88-8f2e-0e5aaa7fd628)
 ![image](https://github.com/user-attachments/assets/20ec346a-284f-4fde-afbf-11d2fa1e38b3)
 ![image](https://github.com/user-attachments/assets/abf9adef-9db0-4a1d-9c74-ff64a38f5e46)
